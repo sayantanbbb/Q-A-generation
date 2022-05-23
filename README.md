@@ -26,7 +26,7 @@ I trained a T5 model which has been released quite recently . It gave me quite g
 
 ## Demo 
 <img src="2c31b1e8-5248-406b-877d-574eee555910.gif">
-as you can see some questions still haded to be manually deleted . Also the filedownloaded wasent recorder so i will just paste the screenshots :- 
+as you can see some questions still haded to be manually deleted . Also the file downloaded wasent recorder so i will just paste the screenshots :- 
 
 <img src="Screenshot (91).png">
 
